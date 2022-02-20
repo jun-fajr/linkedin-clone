@@ -8,6 +8,6 @@ module.exports = nextConfig;
 // next.config.js
 module.exports = {
   images: {
-    domains: ["content.linkedin.com"],
+    domains: ["rb.gy"],
   },
 };
